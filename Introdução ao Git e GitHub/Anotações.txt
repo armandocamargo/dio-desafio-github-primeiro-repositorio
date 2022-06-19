@@ -1,0 +1,11 @@
+Configurando o Git para uso como GitHub
+
+-Criar uma chave ssh e configurar o git
+ comandos:
+ 1- ssh-keygen -t ed25519 -C "email@example.com"
+ 2- no git ir para chave ssh e com a chave publica  criada usar para criar a ssh key nova
+
+-Configurar usuario e email no git
+ comandos:
+ 1- git config --global user.name "Fulano de Tal"
+ 2- git config --global user.email fulanodetal@exemplo.br
