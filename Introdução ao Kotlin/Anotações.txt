@@ -1,0 +1,18 @@
+links:
+ https://developer.android.com/docs
+ https://play.kotlinlang.org/
+
+informações: 
+ frameworks Kvision e Fritz2
+ 
+Declarar variaveis:
+ var idadeAtual = 28 (se modifica, alteravel)
+ val idadeAtual = 28 (definido durante a execução)
+ const val IDADE_MAX = 80 (valor para consulta, fixo)
+
+Operadores Aritimeticos:
+ Podem ser usados como atribuição, expressões ou comandos
+
+Concatenação
+ usando $ ou ${} onde podeomos tratar a string ou formatar a estrutura
+
